@@ -1,4 +1,4 @@
-package demo
+package main
 
 import (
 	"fmt"
@@ -27,3 +27,5 @@ func main() {
 	fmt.Println("Hellow")
 	fmt.Println(apply(pow,3,4))
 }
+
+
