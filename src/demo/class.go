@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"./queue"
+	"demo/queue"
 )
 func main() {
 	fmt.Println("helow")
