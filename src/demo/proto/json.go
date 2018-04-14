@@ -24,7 +24,7 @@ func RequestBytes(bys []byte) *RequestACK {
 	return data
 }
 
-func ResponseSuccess(data string) []byte {
+func ResponseSuccess(data [3]int) []byte {
 	responseAck := make(map[string]interface{})
 
 	responseAck["success"] = true
