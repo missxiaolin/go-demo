@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 	"fmt"
-	"demo/proto"
+	"go/demo/proto"
 )
 
 func main() {

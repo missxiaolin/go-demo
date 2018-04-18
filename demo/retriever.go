@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"demo/mock"
-	"demo/real"
+	"go/demo/mock"
+	"go/demo/real"
 	"time"
 )
 
